@@ -149,7 +149,7 @@ The notebook documentation is written in Spanish. The `.env` file is intentional
 
 ### Power BI Dashboard
 
-![Customer Behavior Dashboard](images/Power-BI/Customer-Behavior-Dashboard.png)
+![Customer Behavior Dashboard](images/power-bi/Customer-Behavior-Dashboard.png)
 
 *Customer Behavior Dashboard built in Power BI on top of the PostgreSQL table.*
 
