@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.pyc
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Secretos (se permite solo la plantilla sin claves)
+.env
+.env.*
+!.env.example
+
+# Editores
+.vscode/
+.idea/
+
+# Sistema operativo y temporales de Office
+.DS_Store
+Thumbs.db
+~$*
+
+# Logs
+*.log
